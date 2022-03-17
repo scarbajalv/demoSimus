@@ -16,3 +16,5 @@ Algunas simulaciones:
 [Espejos]({{ site.baseurl }}/simus/lentes/index.html)
 
 [Plots]({{ site.baseurl }}/simus/graficas/index.html)
+
+[péndulo]({{ site.baseurl }}/simus/pendulum/index.html)

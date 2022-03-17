@@ -13,4 +13,6 @@ layout: default
 
 Algunas simulaciones:
 
-[asdasd]({{ site.baseurl }}/simus/lentes/index.html)
+[Espejos]({{ site.baseurl }}/simus/lentes/index.html)
+
+[Plots]({{ site.baseurl }}/simus/graficas/index.html)

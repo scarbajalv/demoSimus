@@ -24,6 +24,6 @@ layout: default
 qweqwe
 
 <div id="simple-sketch-holder" class="center" style="position: relative; ">
-	<script type="text/javascript" src="./sketch.js"></script>
+	<script type="text/javascript" src="./function.js"></script>
 </div>
 

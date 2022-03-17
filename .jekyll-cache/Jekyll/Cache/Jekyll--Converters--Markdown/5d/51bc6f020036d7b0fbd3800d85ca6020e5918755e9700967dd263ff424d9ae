@@ -1,4 +1,4 @@
-I"Ð<script src="/demoSimus/p5js/p5.js"></script>
+I"Ó<script src="/demoSimus/p5js/p5.js"></script>
 
 <script src="/demoSimus/p5js/p5.sound.js"></script>
 
@@ -13,9 +13,10 @@
 
 <h1 id="propuestas-de-simulaciones-para-clase">Propuestas de simulaciones para clase</h1>
 
-<p>lalala</p>
+<p>qweqwe</p>
 
 <div id="simple-sketch-holder" class="center" style="position: relative; ">
-	<script type="text/javascript" src="./sketch.js"></script>
+	<script type="text/javascript" src="./function.js"></script>
 </div>
+
 :ET

@@ -1,8 +1,8 @@
-I"²<script src="/p5js/p5.js"></script>
+I"Ð<script src="/demoSimus/p5js/p5.js"></script>
 
-<script src="/p5js/p5.sound.js"></script>
+<script src="/demoSimus/p5js/p5.sound.js"></script>
 
-<script src="/p5js/physics.js"></script>
+<script src="/demoSimus/p5js/physics.js"></script>
 
 <style>
 .center {

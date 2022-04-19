@@ -18,9 +18,17 @@ layout: default
 }
 </style>
 
-# Propuestas de simulaciones para clase
+# Simulación de péndulo simple
 
-qweqwe
+El péndulo simple es una aplicación directa del Movimiento Armónico Simple (MAS).
+
+En la simulación siéntase libre de modificar los siguientes parámetros:
+
+1. Longitud del péndulo (L).
+2. Aceleración de la gravedad (g).
+3. Desplazamiento ángular máximo (thetaMax).
+
+También puede controlar el tiempo utilizando el slider.
 
 <div id="simple-sketch-holder" class="center" style="position: relative; ">
 	<script type="text/javascript" src="./pendulum_v5.js"></script>

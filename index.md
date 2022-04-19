@@ -8,13 +8,14 @@
 layout: default
 ---
 
-# Propuestas de simulaciones para clase
+# Algunas simulaciones Físicas
 
+A continuación podrá encontrar una serie de simulaciones físicas:
 
-Algunas simulaciones:
+[Órbita Lunar]({{ site.baseurl }}/simus/tierra1/index.html)
 
-[Espejos]({{ site.baseurl }}/simus/lentes/index.html)
+[Movimiento Compuesto]({{ site.baseurl }}/simus/tierra2/index.html)
 
-[Plots]({{ site.baseurl }}/simus/graficas/index.html)
+Algunas simulaciones relevantes al curso de física 2:
 
-[péndulo]({{ site.baseurl }}/simus/pendulum/index.html)
+[Péndulo Simple]({{ site.baseurl }}/simus/pendulum/index.html)

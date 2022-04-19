@@ -19,9 +19,9 @@ layout: default
 }
 </style>
 
-# Propuestas de simulaciones para clase
+# Algunas posibilidades extra.
 
-qweqwe
+Aplicaciones a óptica geométrica.
 
 <div id="simple-sketch-holder" class="center" style="position: relative; ">
 	<script type="text/javascript" src="./sketch.js"></script>

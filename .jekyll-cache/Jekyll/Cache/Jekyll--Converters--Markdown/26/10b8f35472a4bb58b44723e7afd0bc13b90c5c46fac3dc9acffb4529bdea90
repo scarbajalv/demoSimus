@@ -1,0 +1,22 @@
+I"�<script src="/webSimulaciones/p5js/p5.js"></script>
+
+<script src="/webSimulaciones/p5js/p5.sound.js"></script>
+
+<script src="/webSimulaciones/p5js/physics.js"></script>
+
+<style>
+.center {
+  margin: auto;
+  width: 1000px;
+}
+</style>
+
+<h1 id="algunas-posibilidades-extra">Algunas posibilidades extra.</h1>
+
+<p>Aplicaciones a óptica geométrica.</p>
+
+<div id="simple-sketch-holder" class="center" style="position: relative; ">
+	<script type="text/javascript" src="./sketch.js"></script>
+</div>
+
+:ET

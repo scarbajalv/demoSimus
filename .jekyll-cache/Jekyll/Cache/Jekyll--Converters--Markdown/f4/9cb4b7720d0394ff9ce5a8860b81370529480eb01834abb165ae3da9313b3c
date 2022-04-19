@@ -1,0 +1,30 @@
+I"�<script src="./p5.js"></script>
+
+<script src="./p5.sound.js"></script>
+
+<style>
+.center {
+  margin: auto;
+  width: 1000px;
+}
+</style>
+
+<h1 id="simulación-de-péndulo-simple">Simulación de péndulo simple</h1>
+
+<p>El péndulo simple es una aplicación directa del Movimiento Armónico Simple (MAS).</p>
+
+<p>En la simulación siéntase libre de modificar los siguientes parámetros:</p>
+
+<ol>
+  <li>Longitud del péndulo (L).</li>
+  <li>Aceleración de la gravedad (g).</li>
+  <li>Desplazamiento ángular máximo (thetaMax).</li>
+</ol>
+
+<p>También puede controlar el tiempo utilizando el slider.</p>
+
+<div id="simple-sketch-holder" class="center" style="position: relative; ">
+	<script type="text/javascript" src="./pendulum_v5.js"></script>
+</div>
+
+:ET

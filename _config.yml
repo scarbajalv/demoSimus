@@ -1,11 +1,11 @@
-title: Your awesome title
-baseurl: "/demoSimus"
+title: Simulaciones Física 2
+baseurl: "/webSimulaciones"
 url: ""
 author:
-  name: UTEC
-  email: contacto@utec.edu.pe
+  name: UPN
+  email: sanelicv@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Descripción del curso, etc.
+  Web de simulaciones físicas.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 

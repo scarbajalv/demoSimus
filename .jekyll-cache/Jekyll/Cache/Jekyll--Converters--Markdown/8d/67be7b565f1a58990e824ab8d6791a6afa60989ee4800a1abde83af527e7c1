@@ -1,0 +1,22 @@
+I"å<script src="/webSimulaciones/p5js/p5.js"></script>
+
+<script src="/webSimulaciones/p5js/p5.sound.js"></script>
+
+<script src="/webSimulaciones/p5js/physics.js"></script>
+
+<style>
+.center {
+  margin: auto;
+  width: 1000px;
+}
+</style>
+
+<h1 id="propuestas-de-simulaciones-para-clase">Propuestas de simulaciones para clase</h1>
+
+<p>qweqwe</p>
+
+<div id="simple-sketch-holder" class="center" style="position: relative; ">
+	<script type="text/javascript" src="./function.js"></script>
+</div>
+
+:ET
